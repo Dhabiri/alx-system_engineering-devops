@@ -1,1 +1,1 @@
-combination of 2 letters
+prints two letters
